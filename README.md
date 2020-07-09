@@ -5,4 +5,4 @@ Coming Soon.
 
 ## Relationship
 
-![](three-body relationship.png)
+![](three-body-relationship.png)
